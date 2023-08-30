@@ -3,3 +3,5 @@ Nama    : Marvel Martin Everthard
 NPM     : 2206081345
 
 Kelas   : PBP D
+
+Jurusan : Ilmu Komputer 
