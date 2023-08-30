@@ -4,4 +4,4 @@ NPM     : 2206081345
 
 Kelas   : PBP D
 
-Jurusan : Ilmu Komputer 
+Hobi    : Main musik
